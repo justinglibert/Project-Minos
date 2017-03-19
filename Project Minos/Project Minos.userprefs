@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="Project Minos.Plugins.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\OVR\Scripts\OVRManager.cs">
+    <Files>
+      <File FileName="Assets\OVR\Scripts\OVRManager.cs" Line="570" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
